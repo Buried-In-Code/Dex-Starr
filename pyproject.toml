@@ -41,7 +41,7 @@ ratelimit = "^2.2.1"
 beautifulsoup4 = "^4.10.0"
 lxml = "^4.6.3"
 patool = "^1.12"
-colorama = "^0.4.4"
+colorama = "^0.4.5"
 mokkari = "^1.0.2"
 simyan = "^0.5.2"
 
